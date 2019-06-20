@@ -1,8 +1,0 @@
-#include<stdio.h>
-main()
-{
-char name;
-int age,phnno;
-printf("enter the name,age and phnno of a person");
-scanf("%c%d%d",&name,&age,&phnno);
-}
